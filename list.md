@@ -1,0 +1,5 @@
+- Mutual feedback for websites
+- Django version of pinry
+- Online marketplace like Etsy
+- Online marketplace like WrapBootstrap
+- Portfolio site for freelancers
