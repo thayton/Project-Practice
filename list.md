@@ -4,3 +4,6 @@
 - Online marketplace like WrapBootstrap
 - Portfolio site for freelancers
 - https://news.ycombinator.com/item?id=3029771
+- Skype chat log viewer
+- BJJ practice/tournament tracking
+- http://webscraper.io/
