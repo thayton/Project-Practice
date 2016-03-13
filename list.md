@@ -7,3 +7,9 @@
 - Skype chat log viewer
 - BJJ practice/tournament tracking
 - http://webscraper.io/
+- Bingo card creator
+- https://news.ycombinator.com/item?id=2567487
+- User generated stock photos (like 99designs for stock photos)
+- http://giftyweddings.com/ (Wedding Registry)
+- Database of fast food places with a play areas in them  (http://mommaps.com/user/littlelegs)
+- Time tracking software (like harvest)
