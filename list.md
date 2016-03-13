@@ -3,3 +3,4 @@
 - Online marketplace like Etsy
 - Online marketplace like WrapBootstrap
 - Portfolio site for freelancers
+- https://news.ycombinator.com/item?id=3029771
